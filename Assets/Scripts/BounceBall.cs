@@ -15,9 +15,6 @@ public class BounceBall : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if()
-        {
-            transform.position = Vector3.MoveTowards(gameObject.transform.position, Target.position, 1f);
-        }
+        
     }
 }
