@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BounceBall : MonoBehaviour
 {
-    public Transform Targets;
+    public Transform Target;
 
     // Start is called before the first frame update
     void Start()
